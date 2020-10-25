@@ -1,4 +1,4 @@
-# eyeTracking
+# yeTracking
 [AI Competition] EyeTracking
 
 ## 눈 특징 분석을 위한 AI 동공 검출
